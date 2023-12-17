@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="/images/DarksideLogo.png"
+  <img src="/images/DarksidePoster.png"
     alt="Darkside Logo"
-    height="512"
-    width="512">
+    height="666"
+    width="2160">
 </p>
 
 <p align="center"><h1 align="center"><b>Darkside Interactive </b></h1></p>
