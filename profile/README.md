@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/images/DarksidePoster.png"
     alt="Darkside Logo"
-    height="512"
+    height="330"
     width="2160">
 </p>
 
