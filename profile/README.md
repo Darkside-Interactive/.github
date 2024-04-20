@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/DarksidePoster.png"
+  <img src="/images/DarksideLogo_Colored.png"
     alt="Darkside Logo"
     height="456"
     width="2160">
