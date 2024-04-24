@@ -11,6 +11,9 @@
 </br><p align="center"><h3 align="center">Мы разработали следующие известные модификации:</h3></br><p align="left"><h3 align="left"><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3025614850">AWAY FROM HOME : PART [I]</a></h3>
 <img src="/images/AFHWallpaper.jpg" alt="AFH Logo" width=1280 height=220>
 <p align="left"><h3 align="left"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">AWAY FROM HOME : PART [II]</a></h3>
-<img src="/images/AFHIIWallpaper.png" alt="AFH Logo" width=1280 height=400>
-<p align="left"><h3 align="left"><a href="https://www.youtube.com/watch?v=WbpRctOOaS4">KAYF-LIFE (ANDROID/IOS PORT)</a></h3><img src="/images/KLLogo.jpg" alt="KL Logo" width=1280 height=275></p><p align="left"><h3 align="left"><a href="https://vk.com/rpp_aurora">AURORA ROLEPLAY (ARPP)</a></h3>
+<img src="/images/AFHIIWallpaper.png" alt="AFH:II Logo" width=1280 height=400>
+  <p align="left"><h3 align="left"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">A WONDERFUL HOLIDAY</a></h3>
+<img src="/images/AWonderfulHolidayPreview.png" alt="AWH Logo" width=512 height=512>
+<p align="left"><h3 align="left"><a href="https://www.youtube.com/watch?v=WbpRctOOaS4">KAYF-LIFE (ANDROID/IOS PORT)</a></h3><img src="/images/KLLogo.jpg" alt="KL Logo" width=1280 height=275></p><p align="left"><h3 align="left">
+<a href="https://vk.com/rpp_aurora">AURORA ROLEPLAY (ARPP)</a></h3>
 <img src="/images/auroratemp.jpg" alt="Aurora Logo" width=1280 height=256"</p></h3>
