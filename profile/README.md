@@ -12,7 +12,7 @@
 <img src="/images/AFHWallpaper.jpg" alt="AFH Logo" width=1280 height=220>
 <p align="left"><h3 align="left"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">AWAY FROM HOME : PART [II] (В РАЗРАБОТКЕ)</a></h3>
 <img src="/images/AFHIIWallpaper.png" alt="AFH:II Logo" width=1280 height=400>
-  <p align="left"><h3 align="left"><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3288557574">A WONDERFUL HOLIDAY (ВЫШЕЛ В СВЕТ 15 ИЮЛЯ 2024)</a></h3>
+  <p align="left"><h3 align="left"><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3288557574">A WONDERFUL HOLIDAY (16 ИЮЛЯ 2024 В 20:00)</a></h3>
 <img src="/images/AWonderfulHolidayPreview.png" alt="AWH Logo" width=512 height=626>
 <p align="left"><h3 align="left"><a href="https://www.youtube.com/watch?v=WbpRctOOaS4">KAYF-LIFE (ANDROID/IOS PORT)</a></h3><img src="/images/KLLogo.jpg" alt="KL Logo" width=1280 height=275></p><p align="left"><h3 align="left">
 <a href="https://vk.com/rpp_aurora">AURORA ROLEPLAY (ARPP)</a></h3>
